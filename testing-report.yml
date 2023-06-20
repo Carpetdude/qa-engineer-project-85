@@ -54,3 +54,7 @@
 - summary: |
     Проверка работы чата
   status: pass
+  
+- summary: |
+    Проверка работы рейтинговой системы
+  status: pass
